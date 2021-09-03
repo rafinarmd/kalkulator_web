@@ -1,0 +1,26 @@
+.box1{
+	background:grey;
+	border:3px solid black;
+	width:367px;
+	height:60px;
+	font-size:40px;
+}
+
+.box2{
+	background:navajowhite;
+	border:2px solid black;
+	margin:3px 4px 3px 1px;
+	width:85px;
+	height:60px;
+	float:left;
+	font-weight:bold;
+	font-size:50px;
+	text-align:center;
+	cursor:pointer;
+}
+
+.container{
+	width:400px;
+}
+
+
